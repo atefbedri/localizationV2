@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">localizationV2</string>
+    <string name="helloworld">bonjour tout le monde</string>
+    <string name="flag">rtee</string>
+</resources>
